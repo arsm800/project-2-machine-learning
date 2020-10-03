@@ -10,17 +10,17 @@
 
 ## Summary
 
-Goal: Use machine learning models to determine if financial fundamental data correlates with stock sector performance.
+Goal: Evaluate several machine learning models to utilize time series data and data on financial fundamentals to determine the most profitable machine learning model, and to evaluate it's performance going forward.
 
-Method: Evaluate several machine learning models to utilize time series data and data on financial fundamentals to determine the most profitable machine learning model, and to evaluate it's performance going forward. Also, we will use a comparative study of two selected sectors to determine if our data analysis is more strongly correlated to one sector.
+Method: Choose three models, train and test data, evaluate performance.
 
-Hypothesis: Our financial fundamental data analysis will correlate strongly with one sector vs. the other.
+Hypothesis: Our group predicts the neural network model will reveal the most profitable performance
 
 ## Research Questions
 
 1. Will our portfolio performance reveal financial fundamental metrics can be used to predict stock performance?
 
-1. Using business fundamental financial statement data including income statements, balance sheet statements, and cash flow statements, which sector will perform best (i.e. tech vs. financials)?
+1. Using business fundamental financial statement data including income statements, balance sheet statements, and cash flow statements, show stock price performance?
 
 1. Can we predict a percentage return range based on our model performance?
 
