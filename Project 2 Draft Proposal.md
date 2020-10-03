@@ -10,21 +10,23 @@
 
 ## Summary
 
-Build the best possible model to utilize time series data analysis and financial fundamental metrics to maximize stock portfolio performance.
+Goal: Use machine learning models to determine if financial fundamental data correlates with stock sector performance.
+
+Method: Evaluate several machine learning models to utilize time series data and data on financial fundamentals to determine the most profitable machine learning model, and to evaluate it's performance going forward. Also, we will use a comparative study of two selected sectors to determine if our data analysis is more strongly correlated to one sector.
+
+Hypothesis: Our financial fundamental data analysis will correlate strongly with one sector vs. the other.
 
 ## Research Questions
 
+1. Will our portfolio performance reveal financial fundamental metrics can be used to predict stock performance?
+
 1. Using business fundamental financial statement data including income statements, balance sheet statements, and cash flow statements, which sector will perform best (i.e. tech vs. financials)?
 
-1. Will our portfolio performance reveal financial fundamental metrics can be used to predict sector performance?
-
-1. How would this compare to a baseline investment fund such as S&P500 or Treasury bonds?
-
-1. Can we create a percentage return range based on the model performance?
+1. Can we predict a percentage return range based on our model performance?
 
 ## Data Availability
 
-1. Quandl dataset
+1. Quandl API
 
 2. Publically available data from historical financial statements on company websites
 
@@ -42,5 +44,5 @@ Build the best possible model to utilize time series data analysis and financial
 1. Pull data from the various sources.
 1. Clean Data using Pandas and Jupyter notebook.
 1. Perform analysis on model to choose which stocks to invest in.
-1. Based on model outcome, use second model to predict stock price/ROI.
-1. Use final model to test performance of portfolio stock choices.
+1. Based on model outcome, use model to predict stock price/ROI.
+1. Use model to test performance of portfolio stock choices.
