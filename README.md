@@ -10,6 +10,8 @@ Method: Choose three models, train and test data, evaluate performance.
 
 Hypothesis: Our group predicts the recurrent neural network model will reveal the most profitable performance
 
+Presentation Date: 10/22/20
+
 ## Research Questions
 
 1. Will our portfolio performance reveal financial fundamental metrics can be used to predict stock performance?
